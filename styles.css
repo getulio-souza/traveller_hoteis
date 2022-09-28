@@ -1,0 +1,27 @@
+/* estilos globais */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* navbar */
+
+.navbar{
+    padding: 10px;
+    float: right;
+    margin-top:10px;
+}
+
+.navbar>a{
+  text-decoration: none;
+  margin: 10px;
+}
+
+.login-btn{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
